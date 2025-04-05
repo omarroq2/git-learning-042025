@@ -4,8 +4,12 @@ public class Calculator {
 
 	public static void main(String[] args) {
 
+			
 
-		String g = "sdfs";
 	}
 
+	public int add(int x, int y) {
+		return x+y;
+
+	}
 }
